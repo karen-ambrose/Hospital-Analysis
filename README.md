@@ -9,7 +9,8 @@ This repository leverages SQL-based analytics to address operational challenges 
 - **Approach:** SQL-based exploratory data analysis (EDA) focused on patient trends, financial optimization, and procedures.
 
 ## Descriptive Information
-For a detailed description of the dataset, analysis conducted, insights generated, and recommendations, please refer to the Word document included in this repository.
+For a detailed description of the dataset, please refer to the data dictionary in the zip file in this repository.
+For more information about the analysis conducted, insights generated, and recommendations, please refer to the Word document included in this repository.
 To view all the SQL queries, please refer to the SQL file included in this repository.
 
 ---
